@@ -1,2 +1,9 @@
 Decide which business to order from
 Decide which type of pizza to order
+Call the pizza place
+Order the pizza
+    4a. pay over phone
+    4b. pay at door
+Wait for delivery
+Greet delivery driver
+See step 4b if neccessary
