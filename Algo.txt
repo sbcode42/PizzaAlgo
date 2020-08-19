@@ -1,4 +1,6 @@
 Decide which business to order from
+    1a. ask friends
+    2a. say f em and decide for self
 Decide which type of pizza to order
 Call the pizza place
 Order the pizza
